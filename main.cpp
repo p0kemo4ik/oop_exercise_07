@@ -7,7 +7,7 @@ void help() {
                  "create <path> - создает новый файл\n"
                  "save - сохраняет данные в файл\n"
                  "load <path> - выгружает данные из файла\n"
-                 "add <square, rectangle or trapezoid> <vertices> - добавить фигуру\n"
+                 "add <pentagon, hexagon, octagon> <vertices> - добавить фигуру\n"
                  "remove <index> - удаляет фигуру по индексу\n"
                  "print - выводит все фигуру\n"
                  "undo - отменяет последнее действие\n"
